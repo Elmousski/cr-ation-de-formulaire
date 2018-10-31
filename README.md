@@ -30,4 +30,4 @@ $ rails server
 ```
 6. Visit the online version
 
-[link](https://the-form-project.herokuapp.com)
+[link](https://zouzou3000.herokuapp.com)
